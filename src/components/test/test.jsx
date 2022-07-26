@@ -9,7 +9,7 @@ export default function Test() {
     return (
         <div>
             <div>sum = {num}</div>
-            <button onClick={()=>add()}>CLICK ME</button>
+            <button onClick={()=>add()}>CLICK MdE</button>
         </div>
     )
 }
